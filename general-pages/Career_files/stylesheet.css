@@ -64,7 +64,12 @@ td
 	mso-pattern:black none;}
 .xl67
 	{mso-style-parent:style0;
-	mso-number-format:"0\.000";}
+	text-align:center;}
 .xl68
 	{mso-style-parent:style0;
-	mso-number-format:"0\.0";}
+	mso-number-format:"0\.000";
+	text-align:center;}
+.xl69
+	{mso-style-parent:style0;
+	mso-number-format:"0\.0";
+	text-align:center;}
