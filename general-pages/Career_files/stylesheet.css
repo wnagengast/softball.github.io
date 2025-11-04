@@ -17,8 +17,7 @@ br
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:Arial;
-	mso-generic-font-family:auto;
+	font-family:Arial, sans-serif;
 	mso-font-charset:0;
 	border:none;
 	mso-protection:locked visible;
@@ -35,8 +34,7 @@ td
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:Arial;
-	mso-generic-font-family:auto;
+	font-family:Arial, sans-serif;
 	mso-font-charset:0;
 	mso-number-format:General;
 	text-align:general;
@@ -51,16 +49,12 @@ td
 	{mso-style-parent:style0;
 	font-size:20.0pt;
 	font-weight:700;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
 	text-align:left;
 	vertical-align:middle;}
 .xl66
 	{mso-style-parent:style0;
 	color:#C00000;
 	font-weight:700;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
 	text-align:center;
 	border-top:.5pt solid black;
 	border-right:.5pt solid #A6A6A6;
